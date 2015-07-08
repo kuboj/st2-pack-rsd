@@ -2,6 +2,6 @@
 ---
 name: "chatops.ansible_local"
 action_ref: "ansible.command_local"
-description: "Run ansible command on local machine..."
+description: "Run ansible command on local machine"
 formats:
   - "ansible {{args}}"
