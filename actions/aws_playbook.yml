@@ -12,7 +12,8 @@ parameters:
     default: true
   kwarg_op:
     immutable: true
-  cwd: "/opt/rsd_aws_env"
+  cwd:
+    default: "/opt/rsd_aws_env"
   cmd:
     description: "Command to run"
     type: string
