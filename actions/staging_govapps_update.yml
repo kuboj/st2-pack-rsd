@@ -1,5 +1,5 @@
 ---
-name: rsd.staging_govapps_update
+name: staging_govapps_update
 description: Update Govapps on staging
 runner_type: local-shell-cmd
 entry_point: ""

@@ -1,7 +1,7 @@
 
 ---
 name: "aws_playbook"
-action_ref: "default.rsd.aws_playbook"
+action_ref: "aws_playbook"
 description: "Run RSD aws playbook"
 formats:
   - "aws-playbook {{playbook}}"
