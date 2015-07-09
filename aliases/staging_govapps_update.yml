@@ -1,0 +1,7 @@
+
+---
+name: "staging_govapps_update"
+action_ref: "default.rsd.staging_govapps_update"
+description: "Update Govapps on staging"
+formats:
+  - "update govapps {{govapps_version}}"
