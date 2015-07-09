@@ -1,5 +1,5 @@
 ---
-name: aws_playbook
+name: rsd.aws_playbook
 description: Run RSD aws playbook
 runner_type: local-shell-cmd
 entry_point: ""
