@@ -1,7 +1,7 @@
 
 ---
 name: "staging_govapps_update"
-action_ref: "staging_govapps_update"
+action_ref: "st2-pack-rsd.staging_govapps_update"
 description: "Update Govapps on staging"
 formats:
   - "update govapps {{govapps_version}}"
